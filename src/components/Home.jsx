@@ -195,24 +195,23 @@ function Home() {
         <div className="headings">
           <h1>Quick Links</h1>
           <div className="sociallinks">
-            <a href="https://www.instagram.com/tietofficial/" target="_blank"><img src={insta} alt="instagram" /></a>
-            <a href="https://www.facebook.com/officialTIET" target="_blank"><img src={fb} alt="facebook" /></a>
-            <a href="https://twitter.com/TIETofficial" target="_blank"><img src={twitter} alt="twitter" /></a>
-            <a href="https://www.linkedin.com/school/tietofficial/" target="_blank"><img src={linkedin} alt="linkedin" /></a>
-            <a href="https://www.youtube.com/c/TIETOfficial" target="_blank"><img src={youtube} alt="youtube" /></a>
+            <a href="https://www.instagram.com/lucknow_universe/" target="_blank"><img src={insta} alt="instagram" /></a>
+            <a href="https://www.facebook.com/universitylucknow/" target="_blank"><img src={fb} alt="facebook" /></a>
+            <a href="https://x.com/lkouniv" target="_blank"><img src={twitter} alt="twitter" /></a>
+            <a href="https://www.linkedin.com/company/lusocialmediagroup/?originalSubdomain=in" target="_blank"><img src={linkedin} alt="linkedin" /></a>
           </div>
         </div>
         <div className="links">
-          <a href="https://www.thapar.edu/">Official Website</a>
-          <a href="https://www.thapar.edu/students/pages/webkiosk">Webkiosk</a>
-          <a href="https://lms.thapar.edu/moodle/">Learning Management System</a>
-          <a href="https://eticket.thapar.edu/index.php">Online Support System</a>
+          <a href="https://www.lkouniv.ac.in/">Official Website</a>
+          <a href="https://www.lkouniv.ac.in/">Webkiosk</a>
+          <a href="https://www.lkouniv.ac.in/">Learning Management System</a>
+          <a href="https://www.lkouniv.ac.in/">Online Support System</a>
         </div>
         <div className="address">
-          <h4>Thapar Institute of Engineering & Technology</h4>
-          <h4>P.O. Box 32, Bhadson Road,</h4>
-          <h4>Patiala, Punjab,</h4>
-          <h4>Pin -147004, India</h4>
+          <h4>Faculity of Engineering & Technology, University of Lucknow</h4>
+          <h4>Jankipura</h4>
+          <h4>Lucknow , Uttar Pradesh</h4>
+          <h4>Pin -226025, India</h4>
         </div>
       </div>
     </div>
